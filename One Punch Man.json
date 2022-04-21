@@ -4,5 +4,33 @@
   "artist": "Yusuke Murata",
   "author": "One",
   "cover": "https://media.discordapp.net/attachments/966569686575771648/966576627448426506/cover.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1 - Chapter 1: ஒரே குத்து",
+      "volume": "1",
+      "last_updated": "1650520406",
+      "groups": {
+        "/r/onePunchManTamil": [
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579399724007424/P1.JPG",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579399979835422/P2.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579400369918012/P3.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579400655110195/P4.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579400948727828/P5.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579401196208158/P6.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579401460424735/P7.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579401716281354/P8.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579402001481778/P9.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579471794724904/P10.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579472251895889/P11.JPG",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579472834920488/P12.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579473384362004/P13.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579473736679454/P14.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579474034491392/P15.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579474336468992/P16.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579474705563678/P17.jpg",
+          "https://cdn.discordapp.com/attachments/966569686575771648/966579475045285938/P18.jpg"
+        ]
+      }
+    }
+  }
 }
