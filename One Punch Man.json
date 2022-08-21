@@ -3,7 +3,7 @@
   "description": "தமிழில் One Punch Man",
   "artist": "Yusuke Murata",
   "author": "One",
-  "cover": "https://media.discordapp.net/attachments/966569686575771648/966576627448426506/cover.jpg",
+  "cover": "https://cdn.discordapp.com/attachments/966569686575771648/1010932857318948894/volume_2.jpg",
   "chapters": {
     "1": {
       "title": "1 - Chapter 1: ஒரே குத்து",
@@ -264,6 +264,47 @@
                 "https://cdn.discordapp.com/attachments/966569686575771648/1008718358608367626/C9P23.jpg"
              ]
           }
-        }    
+        },
+        "10": {
+              "title": "10 - Chapter 10: புதுக்கலை",
+              "volume": "2",
+              "last_updated": "1661095885",
+              "groups": {
+                "/r/onePunchManTamil":[
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933226547728507/C10P1.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933226119905280/C10P2.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933227592093818/C10P3.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933227197837402/C10P4.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933227881504788/C10P5.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933228212858900/C10P6.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933229483737221/C10P7.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933229815078974/C10P8.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933228967833610/C10P9.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933228594532422/C10P10.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933448191512669/C10P11.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933447029698701/C10P12.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933445754626058/C10P13.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933446660591707/C10P14.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933446220206150/C10P15.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933448552226856/C10P16.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933447809835169/C10P17.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933447444938812/C10P18.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933448896172042/C10P19.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933449139425390/C10P20.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933574083551372/C10P21.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933575169867866/C10P22.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933577153790072/C10P23.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933574658183258/C10P24.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933578084909218/C10P25.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933575509614652/C10P26.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933576847593512/C10P27.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933576210067556/C10P28.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933575828373615/C10P29.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933577728413716/C10P30.jpg",
+                    "https://cdn.discordapp.com/attachments/966569686575771648/1010933638436757535/C10P31.jpg"    
+                 ]
+              }
+            }
+            
   }
 }
