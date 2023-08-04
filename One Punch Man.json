@@ -3,7 +3,7 @@
   "description": "தமிழில் One Punch Man",
   "artist": "Yusuke Murata",
   "author": "One",
-  "cover": "https://cdn.discordapp.com/attachments/966569686575771648/1064103550097039410/Volume_5.jpg",
+  "cover": "https://cdn.discordapp.com/attachments/966569686575771648/1135613386965651577/Volume_6.jpg",
   "chapters": {
     "1": {
       "title": "1 - Chapter 1: ஒரே குத்து",
@@ -30,6 +30,36 @@
           "https://cdn.discordapp.com/attachments/966569686575771648/966579474705563678/P17.jpg",
           "https://cdn.discordapp.com/attachments/966569686575771648/966579475045285938/P18.jpg"
         ]
+      }
+    }   ,
+"30": {
+      "title": "30 - Chapter 30: இ-வகுப்பு",
+      "volume": "6",
+      "last_updated": "1691159956",
+      "groups": {
+        "/r/onePunchManTamil":[
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613610849210388/C30P1.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613611147014154/C30P2.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613609255374920/C30P3.jpg",      
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613610475925575/C30P4.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613607854473337/C30P5.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613609666424842/C30P6.jpg",      
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613608332628100/C30P7.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613608802398339/C30P8.jpg",      
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613610031321210/C30P9.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613607388909729/C30P10.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613840734822513/C30P11.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613843125571634/C30P12.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613842043445278/C30P13.jpg",      
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613842685173871/C30P14.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613840369913926/C30P15.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613841703698533/C30P16.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613843125571634/C30P12.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613842332848128/C30P18.jpg",      
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613841049391255/C30P19.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613841414299678/C30P20.jpg",
+            "https://cdn.discordapp.com/attachments/966569686575771648/1135613956464062534/C30P21.jpg"                        
+         ]
       }
     }   ,
 "29": {
